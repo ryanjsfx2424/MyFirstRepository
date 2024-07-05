@@ -1,3 +1,5 @@
+## goal: develop a working GUI calculator app.
+
 import tkinter as tk
 
 class Calculator:
